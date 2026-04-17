@@ -1,2 +1,0 @@
-# whatsapp-bot
-Kuch bhi
